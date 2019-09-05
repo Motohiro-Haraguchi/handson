@@ -1,3 +1,2 @@
 # handson
-test
-pllu
+練習です
